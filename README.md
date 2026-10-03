@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog preview card final output image](images\Blog_preview_card_final_output.png)
+![Blog preview card final output image](https://github.com/IVSonlee/Blog-preview-card/blob/658e9d41d50261cd6f9d31e8b1bbe72e3bcc2e8a/images/Blog_preview_card_final_output.png)
 
 ### Links
 
