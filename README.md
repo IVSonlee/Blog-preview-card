@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Blog preview card final output image](/assets/images/Blog_preview_card_final_output.png)
+![Blog preview card final output image](images\Blog_preview_card_final_output.png)
 
 ### Links
 
@@ -91,8 +91,8 @@ This project can be included or used to display in my personal portfolio to indi
 
 ### Useful resources
 
-- [Example resource 1](figma.com) - It helps to have a complete visualization of the design with exact information needed
-- [Example resource 2](claude.ai) - This helps me what code to use for specific purposes like how can I use the fonts in the folder that is already given then it recommend me to use 
+- [Figma](figma.com) - It helps to have a complete visualization of the design with exact information needed
+- [Claude](claude.ai) - This helps me what code to use for specific purposes like how can I use the fonts in the folder that is already given then it recommend me to use 
 @font-face indicating the font-family and its source.
 
 
