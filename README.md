@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/IVSonlee/Blog-preview-card.git)
+- Live Site URL: [Add live site URL here](https://ivsonlee.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -105,8 +105,6 @@ This project can be included or used to display in my personal portfolio to indi
 - Frontend Mentor - [@IVSonlee](https://www.frontendmentor.io/profile/IVSonlee)
 - Jobstreet - ph.jobstreet.com/profiles/iversonrichmond-lee-QkPdmlXNHv
 - LinkedIn - www.linkedin.com/in/iverson-richmond-lee-332029405
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
