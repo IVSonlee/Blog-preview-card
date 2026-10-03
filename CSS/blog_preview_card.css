@@ -1,0 +1,106 @@
+@font-face {
+    font-family: Figtree_italic;
+    src: url(/assets/fonts/Figtree-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Figtree_variable;
+    src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+body
+{
+    align-items: center;
+    background: rgb(244, 208, 78);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+main
+{
+    box-sizing: border-box;
+    box-shadow: 8px 8px hsl(0, 0%, 7%);
+    border: 0.12em solid hsl(0, 0%, 7%);
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    height: 522px;
+    transition: color 0.5s ease-in-out;
+    transition: box-shadow 0.5s ease-in-out;
+    width: 384px;
+}
+main:hover h2
+{
+    color: rgb(244, 208, 78);
+}
+main:hover
+{
+    box-shadow: 20px 20px hsl(0, 0%, 7%);
+}
+img
+{
+    border-radius: 10px;
+    position: relative;
+    left: 24px;
+    top: 24px;
+    max-width: 336px;
+}
+article
+{
+    box-sizing: border-box;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 336px;
+}
+h5
+{
+    align-items: center;
+    background: rgb(244, 208, 78);
+    border-radius: 4px;
+    color: hsl(0, 0%, 7%);
+    display: flex;
+    font-family: Figtree_variable;
+    font-weight: 950;
+    height: 0.5em;
+    justify-content: center;
+    padding: 12px;
+    width: 60px;
+}
+.date
+{
+    font: normal normal 500 14px/150% Figtree_variable;
+    margin-top: -5px;
+}
+h2
+{
+    font-family: Figtree_variable;
+    font-weight: 950;
+    line-height: 150%;
+    margin-top: -5px;
+    transition: color 0.5s ease-in-out;
+}
+article p:last-child
+{
+    color: hsl(0, 0%, 42%);
+    font: normal normal 500 16px/150% Figtree_variable;
+    margin: 0;
+}
+.author_container
+{
+    align-items: center;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    height: 4.0em;
+    position: relative;
+    top: 20px;
+}
+.author_container img
+{
+    height: 32px;
+    margin-top: -45px;
+}
+.author_container span
+{
+    text-indent: 40px;
+    font: normal normal 950 14px/150% Figtree_variable;
+}
